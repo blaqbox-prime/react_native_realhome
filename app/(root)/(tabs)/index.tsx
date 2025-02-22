@@ -11,10 +11,7 @@ export default function Index() {
       }}
     >
       <Text className="text-lg font-bold my-6 font-rubik ">This is styled</Text>
-      <Link href="/sign-in">Sign in</Link>
-      <Link href="/explore">Explore</Link>
-      <Link href="/profile">Profile</Link>
-      <Link href="/properties/1">prop 1</Link>
+
     </View>
   );
 }
